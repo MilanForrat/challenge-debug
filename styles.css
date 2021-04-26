@@ -1,0 +1,12 @@
+/* GENERAL */
+h1{
+    font-size: italic;
+    text-align: center;
+}
+
+
+/* CARDS */
+.card .card-title{
+    color: rgb(21, 94, 21);
+}
+
